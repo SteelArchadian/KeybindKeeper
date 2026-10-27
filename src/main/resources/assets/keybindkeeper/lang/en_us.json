@@ -1,0 +1,9 @@
+{
+  "keybindkeeper.button.reset": "Reset Options...",
+  "keybindkeeper.button.reset.tooltip": "Reset all keybinds to the pack's defaults, or back to vanilla.",
+  "keybindkeeper.reset.title": "Reset all keybinds",
+  "keybindkeeper.reset.subtitle": "This changes every keybind at once.",
+  "keybindkeeper.reset.pack": "Reset to Pack Defaults",
+  "keybindkeeper.reset.pack.none": "This pack has no keybind preset (configureddefaults/options.txt).",
+  "keybindkeeper.reset.vanilla": "Reset to Vanilla"
+}
