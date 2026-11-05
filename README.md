@@ -22,9 +22,9 @@ When a mod is missing for even one session (you removed it to test something, or
 
 Client-side only. Nothing to set up.
 
-## Bugs and ideas
+## Feedback, bugs and feature ideas welcome
 
-Please post them in **[Issues](https://github.com/SteelArchadian/KeybindKeeper/issues)**. That's where every report gets read and tracked, rather than in CurseForge or Modrinth comments.
+This mod is actively developed, and your input shapes what comes next. Found a bug, have an idea for a feature, or think something could work better? **Please share it** in **[Issues](https://github.com/SteelArchadian/KeybindKeeper/issues)**. Every report and suggestion gets read, and feature requests are genuinely encouraged: good ideas get built.
 
 ## Building
 
